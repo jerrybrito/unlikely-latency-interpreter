@@ -1,0 +1,2 @@
+# Requires: abstract-emptiness
+# (Not available on PyPI)
